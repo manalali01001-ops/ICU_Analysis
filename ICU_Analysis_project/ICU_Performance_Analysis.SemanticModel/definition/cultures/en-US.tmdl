@@ -1,0 +1,6311 @@
+cultureInfo en-US
+
+	linguisticMetadata =
+			{
+			  "Version": "4.1.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "ICU_analysis_clean": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ICU analysis clean": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ICU_Analysis_Clean": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "icu examination clean": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu investigation clean": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu scrutiny clean": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu breakdown clean": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu enquiry clean": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu inquiry clean": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu exploration clean": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu evaluation clean": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu consideration clean": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu study clean": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.subject_id": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "subject_id"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "subject id": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "subject_id": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "subject": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "subject identification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "subject identity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "subject identifier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "subject credential": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "topic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "substance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "theme": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "focus": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "question": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "issue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.hadm_id": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "hadm_id"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hadm id": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hadm_id": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "hadm identification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "hadm identity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "hadm identifier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "hadm credential": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.icustay_id": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "icustay_id"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "icustay id": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "icustay_id": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "icustay identification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "icustay identity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "icustay identifier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "icustay credential": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.gender": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "gender"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "gender": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "sexuality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "sex": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.admission_type": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "admission_type"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "admission type": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "admission_type": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "type": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "admission category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "admission genre": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "admission manner": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "admission variety": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "genre": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "manner": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "variety": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "admission brand": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "admission class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.admission_location": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "admission_location"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "admission location": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "admission_location": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "location": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "admission locality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "admission placement": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "admission scene": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "admission venue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "locality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "placement": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "scene": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "venue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "admission address": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "admission place": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.discharge_location": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "discharge_location"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "discharge location": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "discharge_location": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "location": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "discharge locality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "discharge placement": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "discharge scene": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "discharge venue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "locality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "placement": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "scene": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "venue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "discharge address": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "discharge place": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.insurance": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "insurance"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "insurance": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "assurance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "protection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "coverage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "indemnification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "indemnity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "cover": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.ethnicity": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "ethnicity"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ethnicity": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "civilization": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "society": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "origin": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "background": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "culture": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.diagnosis": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "diagnosis"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "diagnosis": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "analysis": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "judgement": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "judgment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "verdict": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "opinion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "conclusion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "identification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "finding": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.hospital_expire_flag": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "hospital_expire_flag"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hospital expire flag": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hospital_expire_flag": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "infirmary expire flag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "hospice expire flag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "sickbay expire flag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "sanatorium expire flag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "clinic expire flag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.expire_flag": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "expire_flag"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "expire flag": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "expire_flag": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "expire ensign": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "expire pennant": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "expire pennon": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "expire emblem": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "expire streamer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "expire standard": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "expire bunting": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "expire banner": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.first_careunit": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "first_careunit"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "first careunit": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "first_careunit": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.last_careunit": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "last_careunit"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "last careunit": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "last_careunit": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "end careunit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "final careunit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "closing careunit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "concluding careunit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "finishing careunit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "former careunit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "latest careunit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "latter careunit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "past careunit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "remaining careunit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.admittime": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "admittime"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "admittime": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "ICU_analysis_clean.admittime.date_hierarchy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "admittime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "admittime date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "admittime moment hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "admittime period hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "period hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "admittime date ladder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "admittime date grading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "admittime date order": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "admittime date pyramid": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "date ladder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "date grading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.admittime.year": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "admittime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Year"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "admittime year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "admittime yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.admittime.quarter": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "admittime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Quarter"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "admittime quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "admittime qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.818
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.admittime.month": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "admittime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Month"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "admittime month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "admittime mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.admittime.day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "admittime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Day"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "admittime day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "day": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.dischtime": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "dischtime"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dischtime": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "ICU_analysis_clean.dischtime.date_hierarchy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "dischtime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dischtime date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "dischtime moment hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "dischtime period hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "period hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "dischtime date ladder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "dischtime date grading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "dischtime date order": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "dischtime date pyramid": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "date ladder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "date grading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.dischtime.year": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "dischtime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Year"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dischtime year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "dischtime yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.dischtime.quarter": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "dischtime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Quarter"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dischtime quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "dischtime qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.818
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.dischtime.month": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "dischtime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Month"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dischtime month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "dischtime mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.dischtime.day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "dischtime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Day"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dischtime day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "day": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.intime": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "intime"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "intime": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "ICU_analysis_clean.intime.date_hierarchy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "intime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "intime date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "intime moment hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "intime period hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "period hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "intime date ladder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "intime date grading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "intime date order": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "intime date pyramid": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "date ladder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "date grading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.intime.year": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "intime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Year"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "intime year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "intime yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.intime.quarter": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "intime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Quarter"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "intime quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "intime qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.818
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.intime.month": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "intime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Month"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "intime month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "intime mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.intime.day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "intime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Day"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "intime day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "day": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.outtime": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "outtime"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "outtime": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "ICU_analysis_clean.outtime.date_hierarchy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "outtime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "outtime date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "outtime moment hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "outtime period hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "period hierarchy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "outtime date ladder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "outtime date grading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "outtime date order": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "outtime date pyramid": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "date ladder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "date grading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.outtime.year": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "outtime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Year"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "outtime year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "outtime yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.outtime.quarter": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "outtime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Quarter"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "outtime quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "outtime qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.818
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.outtime.month": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "outtime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Month"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "outtime month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "outtime mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.outtime.day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "VariationSource": "outtime",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Day"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "outtime day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "day": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.hospital_los_day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "hospital_los_days"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hospital los day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hospital_los_days": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "los day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean.icu_los_day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "ICU_Analysis_Clean",
+			          "ConceptualProperty": "icu_los_days"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "icu los day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "icu_los_days": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "los day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "entity__measure": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Measure"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "_measure": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "_ degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "_ quantity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "_ quota": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "_ extent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "_ amount": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "_ portion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "_ ration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "_ size": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "entity__measure.column": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Measure",
+			          "ConceptualProperty": "Column"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "column": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "pilaster": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "pier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "pillar": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "post": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "support": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "stake": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "pole": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "buttress": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "underpinning": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "contribution": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        }
+			      ]
+			    },
+			    "entity__measure.total_patients": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Measure",
+			          "ConceptualProperty": "Total Patients"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total patients": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "patients": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "aggregate patient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "overall patient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "entity__measure.total_ICU_stays": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Measure",
+			          "ConceptualProperty": "Total ICU Stays"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total ICU stays": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "stays": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "ICU stays": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "aggregate icu stay": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "overall icu stay": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "total icu stopover": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu stopover": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "total icu break": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "total icu vacation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "total icu sojourn": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "total icu holiday": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "total icu visit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "stopover": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "entity__measure.avg_ICU_LOS": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Measure",
+			          "ConceptualProperty": "Avg ICU LOS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "avg ICU LOS": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "average icu los": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "ICU Stay": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity__measure.inhospital_mortality_rate": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Measure",
+			          "ConceptualProperty": "In-Hospital Mortality Rate"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in-hospital mortality rate": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "in hospital mortality rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "mortality rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "hospital mortality rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "in-infirmary mortality rate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "in-hospice mortality rate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "in-hospital humanity rate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "in-hospital mortality degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "in-sickbay mortality rate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "in-hospital transience rate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "in-sanatorium mortality rate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "in-hospital impermanence rate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "in-hospital mortality frequency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "in-hospital mortality percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        }
+			      ]
+			    },
+			    "entity__measure.avg_hospital_LOS": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Measure",
+			          "ConceptualProperty": "Avg Hospital LOS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "avg hospital LOS": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "average hospital los": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "Hospital Stay": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity__measure.total_admissions": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Measure",
+			          "ConceptualProperty": "Total Admissions"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total admissions": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "admissions": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "aggregate admission": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "overall admission": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "total fee": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "total charge": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "total price": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "fee": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "charge": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "price": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "total admittance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "total permission": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        }
+			      ]
+			    },
+			    "entity__measure.survival_rate": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Measure",
+			          "ConceptualProperty": "Survival Rate"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "survival rate": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "survival degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "survival frequency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "survival percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "survival ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "survival quotient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "frequency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "quotient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "survival amount": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "entity__measure.discharge_count": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Measure",
+			          "ConceptualProperty": "Discharge Count"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "discharge count": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "discharge amount": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "entity__measure.ICU_readmission_rate": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Measure",
+			          "ConceptualProperty": "ICU Readmission Rate"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ICU readmission rate": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "readmission rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "icu readmission degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu readmission frequency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu readmission percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu readmission ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "icu readmission quotient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "readmission degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "readmission frequency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "readmission percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "readmission ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "readmission quotient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        }
+			      ]
+			    },
+			    "funnel_workflow": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Funnel_workflow"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "funnel workflow": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Funnel_workflow": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "workflow": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "funnel_workflow.column": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Funnel_workflow",
+			          "ConceptualProperty": "Column"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "column": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "pilaster": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "pier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "pillar": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "post": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "support": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "stake": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "pole": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "buttress": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "underpinning": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "contribution": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "ICU_analysis_clean_outtime_month_has_ICU_analysis_clean_outtime_day": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.outtime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.month"
+			          }
+			        },
+			        "ICU_analysis_clean.outtime.day": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.month"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_months_have_outtime_days"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.day"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_days_have_outtime_months"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.day"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_days_are_in_outtime_months"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_outtime_quarter_has_ICU_analysis_clean_outtime_month": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.outtime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.quarter"
+			          }
+			        },
+			        "ICU_analysis_clean.outtime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.quarter"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_quarters_have_outtime_months"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.month"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_months_have_outtime_quarters"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.month"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_months_are_in_outtime_quarters"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_outtime_year_has_ICU_analysis_clean_outtime_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.outtime.year": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.year"
+			          }
+			        },
+			        "ICU_analysis_clean.outtime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.year"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_years_have_outtime_quarters"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.quarter"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_quarters_have_outtime_years"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.quarter"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_quarters_are_in_outtime_years"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_outtime_date_hierarchy_has_ICU_analysis_clean_outtime_day": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.outtime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.outtime.day": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_date_hierarchies_have_outtime_days"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_outtime_date_hierarchy_has_ICU_analysis_clean_outtime_month": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.outtime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.outtime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_date_hierarchies_have_outtime_months"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_outtime_date_hierarchy_has_ICU_analysis_clean_outtime_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.outtime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.outtime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_date_hierarchies_have_outtime_quarters"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_outtime_date_hierarchy_has_ICU_analysis_clean_outtime_year": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.outtime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.outtime.year": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.year"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtime_date_hierarchies_have_outtime_years"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_outtime_has_date_hierarchy": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.outtime": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime"
+			          }
+			        },
+			        "ICU_analysis_clean.outtime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime.date_hierarchy"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.outtime"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime.date_hierarchy"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "outtimes_have_outtime_date_hierarchies"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_intime_month_has_ICU_analysis_clean_intime_day": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.intime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.month"
+			          }
+			        },
+			        "ICU_analysis_clean.intime.day": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.month"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_months_have_intime_days"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.day"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_days_have_intime_months"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.day"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_days_are_in_intime_months"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_intime_quarter_has_ICU_analysis_clean_intime_month": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.intime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.quarter"
+			          }
+			        },
+			        "ICU_analysis_clean.intime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.quarter"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_quarters_have_intime_months"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.month"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_months_have_intime_quarters"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.month"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_months_are_in_intime_quarters"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_intime_year_has_ICU_analysis_clean_intime_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.intime.year": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.year"
+			          }
+			        },
+			        "ICU_analysis_clean.intime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.year"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_years_have_intime_quarters"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.quarter"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_quarters_have_intime_years"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.quarter"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_quarters_are_in_intime_years"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_intime_date_hierarchy_has_ICU_analysis_clean_intime_day": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.intime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.intime.day": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_date_hierarchies_have_intime_days"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_intime_date_hierarchy_has_ICU_analysis_clean_intime_month": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.intime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.intime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_date_hierarchies_have_intime_months"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_intime_date_hierarchy_has_ICU_analysis_clean_intime_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.intime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.intime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_date_hierarchies_have_intime_quarters"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_intime_date_hierarchy_has_ICU_analysis_clean_intime_year": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.intime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.intime.year": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.year"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intime_date_hierarchies_have_intime_years"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_intime_has_date_hierarchy": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.intime": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime"
+			          }
+			        },
+			        "ICU_analysis_clean.intime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime.date_hierarchy"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.intime"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime.date_hierarchy"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "intimes_have_intime_date_hierarchies"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_dischtime_month_has_ICU_analysis_clean_dischtime_day": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.dischtime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.month"
+			          }
+			        },
+			        "ICU_analysis_clean.dischtime.day": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.month"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_months_have_dischtime_days"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.day"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_days_have_dischtime_months"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.day"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_days_are_in_dischtime_months"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_dischtime_quarter_has_ICU_analysis_clean_dischtime_month": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.dischtime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.quarter"
+			          }
+			        },
+			        "ICU_analysis_clean.dischtime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.quarter"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_quarters_have_dischtime_months"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.month"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_months_have_dischtime_quarters"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.month"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_months_are_in_dischtime_quarters"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_dischtime_year_has_ICU_analysis_clean_dischtime_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.dischtime.year": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.year"
+			          }
+			        },
+			        "ICU_analysis_clean.dischtime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.year"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_years_have_dischtime_quarters"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.quarter"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_quarters_have_dischtime_years"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.quarter"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_quarters_are_in_dischtime_years"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_dischtime_date_hierarchy_has_ICU_analysis_clean_dischtime_day": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.dischtime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.dischtime.day": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_date_hierarchies_have_dischtime_days"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_dischtime_date_hierarchy_has_ICU_analysis_clean_dischtime_month": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.dischtime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.dischtime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_date_hierarchies_have_dischtime_months"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_dischtime_date_hierarchy_has_ICU_analysis_clean_dischtime_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.dischtime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.dischtime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_date_hierarchies_have_dischtime_quarters"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_dischtime_date_hierarchy_has_ICU_analysis_clean_dischtime_year": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.dischtime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.dischtime.year": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.year"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtime_date_hierarchies_have_dischtime_years"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_dischtime_has_date_hierarchy": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.dischtime": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime"
+			          }
+			        },
+			        "ICU_analysis_clean.dischtime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime.date_hierarchy"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.dischtime"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime.date_hierarchy"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dischtimes_have_dischtime_date_hierarchies"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_admittime_month_has_ICU_analysis_clean_admittime_day": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.admittime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.month"
+			          }
+			        },
+			        "ICU_analysis_clean.admittime.day": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.month"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_months_have_admittime_days"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.day"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_days_have_admittime_months"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.day"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_days_are_in_admittime_months"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_admittime_quarter_has_ICU_analysis_clean_admittime_month": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.admittime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.quarter"
+			          }
+			        },
+			        "ICU_analysis_clean.admittime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.quarter"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_quarters_have_admittime_months"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.month"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_months_have_admittime_quarters"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.month"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_months_are_in_admittime_quarters"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_admittime_year_has_ICU_analysis_clean_admittime_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.admittime.year": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.year"
+			          }
+			        },
+			        "ICU_analysis_clean.admittime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.year"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_years_have_admittime_quarters"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.quarter"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_quarters_have_admittime_years"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.quarter"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_quarters_are_in_admittime_years"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_admittime_date_hierarchy_has_ICU_analysis_clean_admittime_day": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.admittime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.admittime.day": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_date_hierarchies_have_admittime_days"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_admittime_date_hierarchy_has_ICU_analysis_clean_admittime_month": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.admittime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.admittime.month": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_date_hierarchies_have_admittime_months"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_admittime_date_hierarchy_has_ICU_analysis_clean_admittime_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.admittime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.admittime.quarter": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_date_hierarchies_have_admittime_quarters"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_admittime_date_hierarchy_has_ICU_analysis_clean_admittime_year": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.admittime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.date_hierarchy"
+			          }
+			        },
+			        "ICU_analysis_clean.admittime.year": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.year"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittime_date_hierarchies_have_admittime_years"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_admittime_has_date_hierarchy": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean.admittime": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime"
+			          }
+			        },
+			        "ICU_analysis_clean.admittime.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime.date_hierarchy"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean.admittime"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime.date_hierarchy"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "admittimes_have_admittime_date_hierarchies"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_entity__measure_ICU_readmission_rate": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "entity__measure.ICU_readmission_rate": {
+			          "Target": {
+			            "Entity": "entity__measure.ICU_readmission_rate"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "entity__measure.ICU_readmission_rate"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_ICU_readmission_rate"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_entity__measure_discharge_count": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "entity__measure.discharge_count": {
+			          "Target": {
+			            "Entity": "entity__measure.discharge_count"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "entity__measure.discharge_count"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_discharge_count"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_entity__measure_survival_rate": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "entity__measure.survival_rate": {
+			          "Target": {
+			            "Entity": "entity__measure.survival_rate"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "entity__measure.survival_rate"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_survival_rate"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_entity__measure_total_admissions": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "entity__measure.total_admissions": {
+			          "Target": {
+			            "Entity": "entity__measure.total_admissions"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "entity__measure.total_admissions"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_total_admissions"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_entity__measure_avg_hospital_LOS": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "entity__measure.avg_hospital_LOS": {
+			          "Target": {
+			            "Entity": "entity__measure.avg_hospital_LOS"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "entity__measure.avg_hospital_LOS"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_avg_hospital_LOS"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_entity__measure_inhospital_mortality_rate": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "entity__measure.inhospital_mortality_rate": {
+			          "Target": {
+			            "Entity": "entity__measure.inhospital_mortality_rate"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "entity__measure.inhospital_mortality_rate"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_inhospital_mortality_rate"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_entity__measure_avg_ICU_LOS": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "entity__measure.avg_ICU_LOS": {
+			          "Target": {
+			            "Entity": "entity__measure.avg_ICU_LOS"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "entity__measure.avg_ICU_LOS"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_avg_ICU_LOS"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_entity__measure_total_ICU_stays": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "entity__measure.total_ICU_stays": {
+			          "Target": {
+			            "Entity": "entity__measure.total_ICU_stays"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "entity__measure.total_ICU_stays"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_total_ICU_stays"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_entity__measure_total_patients": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "entity__measure.total_patients": {
+			          "Target": {
+			            "Entity": "entity__measure.total_patients"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "entity__measure.total_patients"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_total_patients"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_icu_los_day": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.icu_los_day": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.icu_los_day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.icu_los_day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_icu_los_days"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_hospital_los_day": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.hospital_los_day": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.hospital_los_day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.hospital_los_day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_hospital_los_days"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_outtime": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.outtime": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.outtime"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.outtime"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_outtimes"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_intime": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.intime": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.intime"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.intime"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_intimes"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_dischtime": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.dischtime": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.dischtime"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.dischtime"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_dischtimes"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_admittime": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.admittime": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admittime"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admittime"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_admittimes"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_last_careunit": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.last_careunit": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.last_careunit"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.last_careunit"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_last_careunits"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_first_careunit": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.first_careunit": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.first_careunit"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.first_careunit"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_first_careunits"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_expire_flag": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.expire_flag": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.expire_flag"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.expire_flag"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_expire_flag"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_hospital_expire_flag": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.hospital_expire_flag": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.hospital_expire_flag"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.hospital_expire_flag"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_hospital_expire_flag"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_diagnosis": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.diagnosis": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.diagnosis"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.diagnosis"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_diagnoses"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_ethnicity": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.ethnicity": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.ethnicity"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.ethnicity"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_ethnicities"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_insurance": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.insurance": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.insurance"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.insurance"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_insurances"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_discharge_location": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.discharge_location": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.discharge_location"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.discharge_location"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_discharge_locations"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_admission_location": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.admission_location": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admission_location"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admission_location"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_admission_locations"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_admission_type": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.admission_type": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admission_type"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admission_type"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_admission_types"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_gender": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.gender": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.gender"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.gender"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_genders"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_icustay_id": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.icustay_id": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.icustay_id"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.icustay_id"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_icustay_ids"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_hadm_id": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.hadm_id": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.hadm_id"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.hadm_id"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_hadm_ids"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_has_subject_id": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.subject_id": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.subject_id"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Object": {
+			              "Role": "ICU_analysis_clean.subject_id"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_have_subject_ids"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_in_discharge_location": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.discharge_location": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.discharge_location"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "Where": {
+			          "Role": "ICU_analysis_clean.discharge_location"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.discharge_location"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_are_in_discharge_locations"
+			        }
+			      ]
+			    },
+			    "ICU_analysis_clean_in_admission_location": {
+			      "Binding": {
+			        "ConceptualEntity": "ICU_Analysis_Clean"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ICU_analysis_clean": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean"
+			          }
+			        },
+			        "ICU_analysis_clean.admission_location": {
+			          "Target": {
+			            "Entity": "ICU_analysis_clean.admission_location"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "Where": {
+			          "Role": "ICU_analysis_clean.admission_location"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ICU_analysis_clean"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ICU_analysis_clean.admission_location"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ICU_analysis_clean_are_in_admission_locations"
+			        }
+			      ]
+			    }
+			  },
+			  "Agents": {
+			    "Internal": {
+			      "Version": "1.1.0"
+			    }
+			  }
+			}
+		contentType: json
+

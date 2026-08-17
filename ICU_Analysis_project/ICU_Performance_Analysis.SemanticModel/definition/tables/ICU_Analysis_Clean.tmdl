@@ -1,0 +1,208 @@
+table ICU_Analysis_Clean
+	lineageTag: 9107fdd3-c672-44aa-a079-0deefe363c6c
+
+	column subject_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 3f155325-8de3-4395-98cd-2a2eeb1bf4f2
+		summarizeBy: sum
+		sourceColumn: subject_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column hadm_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 30049b76-3525-4afa-b0ff-5a9d7c6b8ce7
+		summarizeBy: sum
+		sourceColumn: hadm_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column icustay_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 21efa12d-2d8f-4b04-b330-4005be1505b4
+		summarizeBy: sum
+		sourceColumn: icustay_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column gender
+		dataType: string
+		lineageTag: 6ad6d076-a31f-4116-9df4-9615e37905b1
+		summarizeBy: none
+		sourceColumn: gender
+
+		annotation SummarizationSetBy = Automatic
+
+	column admission_type
+		dataType: string
+		lineageTag: 3da10a11-a44f-47e6-b41a-a85f1d351f4b
+		summarizeBy: none
+		sourceColumn: admission_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column admission_location
+		dataType: string
+		lineageTag: ac72323a-d7de-41f0-a780-b444f8f88f5f
+		summarizeBy: none
+		sourceColumn: admission_location
+
+		annotation SummarizationSetBy = Automatic
+
+	column discharge_location
+		dataType: string
+		lineageTag: 9f6c794d-c008-4850-8767-c89edb6853a0
+		summarizeBy: none
+		sourceColumn: discharge_location
+
+		annotation SummarizationSetBy = Automatic
+
+	column insurance
+		dataType: string
+		lineageTag: 0123ae8b-97b1-4428-8081-64be6e7021d7
+		summarizeBy: none
+		sourceColumn: insurance
+
+		annotation SummarizationSetBy = Automatic
+
+	column ethnicity
+		dataType: string
+		lineageTag: 306fe23f-545a-4f2a-907b-6536e9b82fea
+		summarizeBy: none
+		sourceColumn: ethnicity
+
+		annotation SummarizationSetBy = Automatic
+
+	column diagnosis
+		dataType: string
+		lineageTag: 5fc6d194-cd97-44be-afb5-a88f6005f314
+		summarizeBy: none
+		sourceColumn: diagnosis
+
+		annotation SummarizationSetBy = Automatic
+
+	column hospital_expire_flag
+		dataType: int64
+		formatString: 0
+		lineageTag: ba7e1dac-765a-465f-92dd-517093461080
+		summarizeBy: sum
+		sourceColumn: hospital_expire_flag
+
+		annotation SummarizationSetBy = Automatic
+
+	column expire_flag
+		dataType: int64
+		formatString: 0
+		lineageTag: 008be116-0f63-4856-8776-fe63f5e8a1d3
+		summarizeBy: sum
+		sourceColumn: expire_flag
+
+		annotation SummarizationSetBy = Automatic
+
+	column first_careunit
+		dataType: string
+		lineageTag: 55b7b0f4-6d3a-43e5-bd27-40dd6aee5cc0
+		summarizeBy: none
+		sourceColumn: first_careunit
+
+		annotation SummarizationSetBy = Automatic
+
+	column last_careunit
+		dataType: string
+		lineageTag: 124537ec-a141-4c7e-8013-e7c3c6e0aff4
+		summarizeBy: none
+		sourceColumn: last_careunit
+
+		annotation SummarizationSetBy = Automatic
+
+	column admittime
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: 7d50d309-df30-4e1a-b518-bf82f76ff54d
+		summarizeBy: none
+		sourceColumn: admittime
+
+		variation Variation
+			isDefault
+			relationship: 41d0d5f8-ba22-4cf4-be4d-177b33bce09a
+			defaultHierarchy: LocalDateTable_bdc4ce01-e128-4bff-a93e-fb06a4403ece.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column dischtime
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: a1bdefb1-6f3d-49c6-90dc-cb364aa6a08a
+		summarizeBy: none
+		sourceColumn: dischtime
+
+		variation Variation
+			isDefault
+			relationship: 26ecedc1-c81f-47f6-9f9c-f74edc490b41
+			defaultHierarchy: LocalDateTable_6044b8e9-ab97-445a-97a3-5e188d0bf694.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column intime
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: 487d93e8-a257-4946-9319-df108b3d936b
+		summarizeBy: none
+		sourceColumn: intime
+
+		variation Variation
+			isDefault
+			relationship: c7df3307-9e4d-45ba-ba99-c5aeea88f462
+			defaultHierarchy: LocalDateTable_6c437695-2014-49e0-b47b-b824ad550dcd.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column outtime
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: 58e54bb4-646e-41bd-8dd0-1fb9cce6052c
+		summarizeBy: none
+		sourceColumn: outtime
+
+		variation Variation
+			isDefault
+			relationship: 6a8a25e5-4bab-42a1-836f-dc3e6d802d6e
+			defaultHierarchy: LocalDateTable_a09fab82-6bda-4aea-af76-8ff1ea0f6b93.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column hospital_los_days
+		dataType: double
+		lineageTag: 1106f4b8-cef0-4dc0-9f37-e0851cd886b5
+		summarizeBy: sum
+		sourceColumn: hospital_los_days
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column icu_los_days
+		dataType: double
+		lineageTag: c19f3a14-86f8-484f-b1b0-103f1328959a
+		summarizeBy: sum
+		sourceColumn: icu_los_days
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition ICU_Analysis_Clean = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\myout\Downloads\ICU_Analysis_Clean.csv"),[Delimiter=",", Columns=20, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Use First Row as Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Change Type" = Table.TransformColumnTypes(#"Use First Row as Headers",{{"subject_id", Int64.Type}, {"hadm_id", Int64.Type}, {"icustay_id", Int64.Type}, {"gender", type text}, {"admission_type", type text}, {"admission_location", type text}, {"discharge_location", type text}, {"insurance", type text}, {"ethnicity", type text}, {"diagnosis", type text}, {"hospital_expire_flag", Int64.Type}, {"expire_flag", Int64.Type}, {"first_careunit", type text}, {"last_careunit", type text}, {"admittime", type datetime}, {"dischtime", type datetime}, {"intime", type datetime}, {"outtime", type datetime}, {"hospital_los_days", type number}, {"icu_los_days", type number}})
+				in
+				    #"Change Type"
+
+	annotation PBI_ResultType = Table
+

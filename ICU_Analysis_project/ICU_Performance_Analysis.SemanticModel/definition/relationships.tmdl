@@ -1,0 +1,20 @@
+relationship 41d0d5f8-ba22-4cf4-be4d-177b33bce09a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ICU_Analysis_Clean.admittime
+	toColumn: LocalDateTable_bdc4ce01-e128-4bff-a93e-fb06a4403ece.Date
+
+relationship 26ecedc1-c81f-47f6-9f9c-f74edc490b41
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ICU_Analysis_Clean.dischtime
+	toColumn: LocalDateTable_6044b8e9-ab97-445a-97a3-5e188d0bf694.Date
+
+relationship c7df3307-9e4d-45ba-ba99-c5aeea88f462
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ICU_Analysis_Clean.intime
+	toColumn: LocalDateTable_6c437695-2014-49e0-b47b-b824ad550dcd.Date
+
+relationship 6a8a25e5-4bab-42a1-836f-dc3e6d802d6e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: ICU_Analysis_Clean.outtime
+	toColumn: LocalDateTable_a09fab82-6bda-4aea-af76-8ff1ea0f6b93.Date
+

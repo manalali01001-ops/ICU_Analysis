@@ -1,0 +1,21 @@
+table Funnel_workflow
+	lineageTag: 3e0bb770-512d-45fe-89ea-5677900f3337
+
+	column Column
+		isHidden
+		formatString: 0
+		lineageTag: 721e8982-b690-4350-8b19-48a0debac0be
+		summarizeBy: sum
+		isNameInferred
+		sourceColumn: [Column]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Funnel_workflow = calculated
+		mode: import
+		source = Row("Column", BLANK())
+
+	annotation PBI_Id = 3d1e74df75824889b5b2ae2d54c25ac0
+
+	annotation 436ba87b-9c83-4389-a31b-ebd06a36be98 = {"Expression":""}
+

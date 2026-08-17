@@ -1,0 +1,26 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	valueFilterBehavior: independent
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["ICU_Analysis_Clean"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table ICU_Analysis_Clean
+ref table DateTableTemplate_553f7f63-c62a-441c-adac-30dfdaf29605
+ref table LocalDateTable_bdc4ce01-e128-4bff-a93e-fb06a4403ece
+ref table LocalDateTable_6044b8e9-ab97-445a-97a3-5e188d0bf694
+ref table LocalDateTable_6c437695-2014-49e0-b47b-b824ad550dcd
+ref table LocalDateTable_a09fab82-6bda-4aea-af76-8ff1ea0f6b93
+ref table _Measure
+ref table Funnel_workflow
+
+ref cultureInfo en-US
+

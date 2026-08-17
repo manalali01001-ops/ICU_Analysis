@@ -1,0 +1,71 @@
+table _Measure
+	lineageTag: f9b74a93-9f14-4e8b-ba17-bb3248b350c3
+
+	measure 'Total Patients' = DISTINCTCOUNT(ICU_Analysis_Clean[subject_id])
+		formatString: 0
+		lineageTag: dfab2d9c-caa0-4047-a238-efc2680f6898
+
+	measure 'Total ICU Stays' = DISTINCTCOUNT(ICU_Analysis_Clean[icustay_id])
+		formatString: 0
+		lineageTag: 9c812e00-9068-462a-b2e5-d0bca734d707
+
+	measure 'Avg ICU LOS' = AVERAGE(ICU_Analysis_Clean[icu_los_days])
+		formatString: 0.00
+		lineageTag: e5ca9d6c-d096-4dfb-bef3-fdc6c0ceb18b
+
+	measure 'In-Hospital Mortality Rate' = ```
+			
+			DIVIDE(
+			    CALCULATE(
+			        COUNT(ICU_Analysis_Clean[hadm_id]), 
+			        ICU_Analysis_Clean[hospital_expire_flag] = 1
+			    ),
+			    [Total Admissions],
+			    0
+			)
+			```
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: 1f2251d3-eeec-4abe-bddb-6225ee7209c0
+
+	measure 'Avg Hospital LOS' = AVERAGE(ICU_Analysis_Clean[hospital_los_days])
+		formatString: 0.00
+		lineageTag: 4f96d074-50b5-4235-8d89-cccb83c6738d
+
+	measure 'Total Admissions' = DISTINCTCOUNT(ICU_Analysis_Clean[hadm_id])
+		formatString: 0
+		lineageTag: d84963dc-9180-4447-8fde-6fb18b762d9c
+
+	measure 'Survival Rate' = 1 - [In-Hospital Mortality Rate]
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 9444af31-8664-4012-af9f-1c944b8d7ca5
+
+	measure 'Discharge Count' = COUNT(ICU_Analysis_Clean[discharge_location])
+		formatString: 0
+		lineageTag: 3396c230-c181-4943-ab5a-978334883e42
+
+	measure 'ICU Readmission Rate' =
+			
+			DIVIDE(
+			    [Total ICU Stays] - [Total Admissions],
+			    [Total Admissions],
+			    0
+			)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: b3e37d82-814f-491f-9b3b-365144eca18a
+
+	column Column
+		dataType: string
+		isHidden
+		lineageTag: 92fd760e-55af-4aee-a90a-c5787584fc95
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Column]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition _Measure = calculated
+		mode: import
+		source = Row("Column", BLANK())
+
+	annotation PBI_Id = d21975148be64638aa642304bbdcdcba
+
